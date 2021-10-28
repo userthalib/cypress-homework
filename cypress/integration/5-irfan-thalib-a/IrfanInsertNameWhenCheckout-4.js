@@ -1,3 +1,7 @@
+//Nama          : Irfan Thalib A
+//No Absen/NIM  : 11/1941720039
+//Kelas         : TI-3A
+//Test Case     : Mengisi nama dengan kombinasi huruf dan angka saja
 /// <reference types="cypress"/>
 
 describe('Insert Name with combination of words and numbers', () => {
