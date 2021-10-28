@@ -1,0 +1,23 @@
+{
+    "name": "kelompok3",
+    "version": "1.0.0",
+    "description": "Cypress Project",
+    "main": "index.js",
+    "dependencies": {
+        "cypress": "^8.7.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "test",
+        "cypress:open": "cypress open"
+    },
+    "keywords": [
+        "e2e",
+        "tests",
+        "cypress",
+        "automation",
+        "framework"
+    ],
+    "author": "Faris Ikhlasul H",
+    "license": "ISC"
+}
